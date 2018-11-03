@@ -80,6 +80,14 @@
         android:paddingLeft="15dip"
         android:paddingRight="15dip"
         android:text="Insertar profesores" />
+    <Button
+        android:id="@+id/btnRecuperarSql"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="15dip"
+        android:paddingRight="15dip"
+        android:text="Recuperar SQL" />
 
 
 </LinearLayout>

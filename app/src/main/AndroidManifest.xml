@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".MostrarPref" />
         <activity android:name=".activityProfesores" />
-        <activity android:name=".activityEstudiantes"></activity>
+        <activity android:name=".activityEstudiantes" />
+        <activity android:name=".Recuperar"></activity>
     </application>
 
 </manifest>
