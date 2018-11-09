@@ -19,7 +19,8 @@
         <activity android:name=".MostrarPref" />
         <activity android:name=".activityProfesores" />
         <activity android:name=".activityEstudiantes" />
-        <activity android:name=".Recuperar"></activity>
+        <activity android:name=".Recuperar" />
+        <activity android:name=".activityAsignatura"></activity>
     </application>
 
 </manifest>

@@ -64,6 +64,7 @@
         android:paddingLeft="15dip"
         android:paddingRight="15dip"
         android:text="Recuperar" />
+
     <Button
         android:id="@+id/btnInsertar"
         android:layout_width="150dp"
@@ -73,13 +74,21 @@
         android:paddingRight="15dip"
         android:text="Insertar estudiantes" />
     <Button
-        android:id="@+id/btnInsertar2"
+    android:id="@+id/btnInsertar2"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:paddingLeft="15dip"
+    android:paddingRight="15dip"
+    android:text="Insertar profesores" />
+    <Button
+        android:id="@+id/btnInsertarAsig"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:paddingLeft="15dip"
         android:paddingRight="15dip"
-        android:text="Insertar profesores" />
+        android:text="Insertar Asignatura" />
     <Button
         android:id="@+id/btnRecuperarSql"
         android:layout_width="150dp"
